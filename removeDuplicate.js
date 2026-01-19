@@ -2,4 +2,4 @@ function removeDuplicates(arr) {
     return [...new Set(arr)];
 }
 
-console.log(removeDuplicates([1, 2, 2, 3, 4, 4])); 
+console.log(removeDuplicates([5,7,7,8,9])); 
